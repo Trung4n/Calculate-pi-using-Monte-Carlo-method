@@ -1,5 +1,4 @@
 
-```markdown
 # Pi Estimation with Multithreading and Synchronization Strategies
 
 This project estimates the value of Pi using the Monte Carlo method with multithreading in C. It demonstrates the performance impact of different synchronization techniques for shared variables in a concurrent environment.
